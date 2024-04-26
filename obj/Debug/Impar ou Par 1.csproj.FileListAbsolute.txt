@@ -1,0 +1,10 @@
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\04-Impar-ou-Par\Impar ou Par 1\Impar ou Par 1\bin\Debug\Impar ou Par 1.exe.config
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\04-Impar-ou-Par\Impar ou Par 1\Impar ou Par 1\bin\Debug\Impar ou Par 1.exe
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\04-Impar-ou-Par\Impar ou Par 1\Impar ou Par 1\bin\Debug\Impar ou Par 1.pdb
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\04-Impar-ou-Par\Impar ou Par 1\Impar ou Par 1\obj\Debug\Impar ou Par 1.csproj.AssemblyReference.cache
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\04-Impar-ou-Par\Impar ou Par 1\Impar ou Par 1\obj\Debug\Impar_ou_Par_1.FrmPrincipal.resources
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\04-Impar-ou-Par\Impar ou Par 1\Impar ou Par 1\obj\Debug\Impar_ou_Par_1.Properties.Resources.resources
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\04-Impar-ou-Par\Impar ou Par 1\Impar ou Par 1\obj\Debug\Impar ou Par 1.csproj.GenerateResource.cache
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\04-Impar-ou-Par\Impar ou Par 1\Impar ou Par 1\obj\Debug\Impar ou Par 1.csproj.CoreCompileInputs.cache
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\04-Impar-ou-Par\Impar ou Par 1\Impar ou Par 1\obj\Debug\Impar ou Par 1.exe
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\04-Impar-ou-Par\Impar ou Par 1\Impar ou Par 1\obj\Debug\Impar ou Par 1.pdb
